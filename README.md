@@ -111,6 +111,10 @@
 
 ###
 
+<div  align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=manuqlly&theme=rose_pine&hide_border=false" height="350" alt="wakatime stats" />
+</div>
+
 <h4 align="center">The one who watches the wind will not sow seed, and the one who looks at the clouds will not reap.<br>- Ecclesiastes 11:4</h4>
 
 ###
